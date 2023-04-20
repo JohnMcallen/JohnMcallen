@@ -1,2 +1,2 @@
-### Hi, John McAllen here👋
+### Hi, I'm John McAllen 👋
 
