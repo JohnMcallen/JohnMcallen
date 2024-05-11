@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm John McAllen Paz</h1>
+<h1 align="center">Hi 👋, I'm John Mcallën Paz</h1>
 <h3 align="center">I am passionate about Data Science.</h3>
 
 - 🌱 I’m currently learning **Machine Learning.**
